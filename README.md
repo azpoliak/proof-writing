@@ -5,6 +5,7 @@ to point out: "weasel" words, passive voice, and duplicate words in a paper.
 Look for through the short blog post for more details. 
 
 Instructions:
+----
 1. Add the subdirectory bin/ in the directory with your source .tex files.
 1. Add the following to your Makefile:
 ```
