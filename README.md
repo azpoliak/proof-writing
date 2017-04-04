@@ -25,6 +25,3 @@ Example:
 ----
 To test out the functionality of the scripts, clone the repo and run the following
 command: ```make proof```.
-
-The file ```example.tex``` is from http://www.cs.jhu.edu/~vandurme/background.html
-with minor edits to illustrate the usefulness of the scripts.
